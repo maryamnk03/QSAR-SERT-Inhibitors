@@ -1,0 +1,26 @@
+===== QSAR MODELING FINAL RESULTS =====
+
+TABLE 1: Model Performance Comparison
+======================================================================
+Linear Regression              | R² =   -51.9310 | MAE = 1.0124 | RMSE = 1.5596
+Ridge Regression               | R² =   -40.8250 | MAE = 0.9164 | RMSE = 1.3863
+Random Forest                  | R² =     0.1194 | MAE = 0.1375 | RMSE = 0.2012
+Random Forest (tuned)          | R² =     0.0829 | MAE = 0.1427 | RMSE = 0.2053
+SVM (RBF)                      | R² =    -0.3350 | MAE = 0.1505 | RMSE = 0.2477
+SVM (tuned)                    | R² =    -0.0592 | MAE = 0.1490 | RMSE = 0.2206
+Neural Network (2 layers)      | R² = -1429.0795 | MAE = 8.0378 | RMSE = 8.1064
+Neural Network (1 layer)       | R² = -3091.4682 | MAE = 7.2310 | RMSE = 11.9206
+
+======================================================================
+
+Y-Randomization Test Results (Random Forest tuned):
+  Real 3-fold CV R²: -2.9352
+  Mean random R²   : -35.6521 ± 46.9347
+  cR²p             : -16.7891  (must be > 0.5)
+
+Leave-One-Out Cross-Validation (Random Forest tuned):
+  Mean LOO R²: nan ± nan
+
+Comparison with Original Paper (Pharmaceuticals 2026):
+  Paper best model (GA-MLR) : Test R^2 = 0.8516
+  Our best model (Random Forest) : Test R² = 0.1194
