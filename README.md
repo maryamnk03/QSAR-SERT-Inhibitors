@@ -27,7 +27,7 @@ This project implements a complete QSAR pipeline for predicting serotonin transp
 - Most important features: LogP (40%) and MolWt (35%)
 
 ## Files
-- `finalproject.ipynb` - Complete Jupyter notebook with all code
+- `finalproject.py` - Python source code (full implementation)
 - `QSAR_Final_Results.txt` - Final results of all models
 
 ## Requirements
