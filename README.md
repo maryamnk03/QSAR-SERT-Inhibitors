@@ -31,5 +31,12 @@ This project implements a complete QSAR pipeline for predicting serotonin transp
 
 ## Author
 Maryam Nekooei
-Supervisor: Dr. Mohammad Mehdi Keikha
-University of Sistan and Baluchestan, 2026
+
+## Supervisor
+Dr. Mohammad Mehdi Keikha
+
+## University
+University of Sistan and Baluchestan
+
+## Date
+2026
