@@ -3,6 +3,13 @@ QSAR modeling for serotonin transporter inhibitors - Final project
 
 # QSAR Modeling for SERT Inhibitors
 
+## Original Paper
+This project is based on the paper by **Veselinović et al. (2026)**:
+> "Integrated Computational Framework for Serotonin Transporter Inhibitors: QSAR, Molecular Docking, and ADMET Profiling"  
+> *Pharmaceuticals*, 19(3), 444.
+
+The original study includes 50 compounds. In this project, the main design series (A to A8, 9 compounds) was used for QSAR modeling.
+
 ## Overview
 This project implements a complete QSAR pipeline for predicting serotonin transporter (SERT) inhibition activity of 9 compounds (series A to A8).
 
@@ -40,3 +47,6 @@ University of Sistan and Baluchestan
 
 ## Date
 2026
+
+## Acknowledgments
+Special thanks to Veselinović et al. (2026) for providing the molecular structures and activity data used in this project.
