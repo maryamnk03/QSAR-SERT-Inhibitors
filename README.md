@@ -5,7 +5,7 @@ QSAR modeling for serotonin transporter inhibitors - Final project
 
 ## Original Paper
 This project is based on the paper by **Veselinović et al. (2026)**:
-> "Integrated Computational Framework for Serotonin Transporter Inhibitors: QSAR, Molecular Docking, and ADMET Profiling"  
+> "QSAR-Guided Design of Serotonin Transporter Inhibitors Supported by Molecular Docking and Biased Molecular Dynamics"
 > *Pharmaceuticals*, 19(3), 444.
 
 The original study includes 50 compounds. In this project, the main design series (A to A8, 9 compounds) was used for QSAR modeling.
@@ -46,7 +46,7 @@ Dr. Mohammad Mehdi Keikha
 University of Sistan and Baluchestan
 
 ## Date
-2026
+June 2026
 
 ## Acknowledgments
 Special thanks to Veselinović et al. (2026) for providing the molecular structures and activity data used in this project.
