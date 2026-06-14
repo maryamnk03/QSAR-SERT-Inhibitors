@@ -1,7 +1,7 @@
 # QSAR-SERT-Inhibitors
 QSAR modeling for serotonin transporter inhibitors - Final project
 
-Please open file "finalproject.py" to view the code.
+*Please open file "finalproject.py" to view the code.*
 
 # QSAR Modeling for SERT Inhibitors
 
